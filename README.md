@@ -4,4 +4,4 @@ European Centre for Disease Prevention and Control https://www.ecdc.europa.eu/en
 
 CSV file: https://opendata.ecdc.europa.eu/covid19/casedistribution/csv
 
-also JSON or XML data
+also JSON or XML data are available
